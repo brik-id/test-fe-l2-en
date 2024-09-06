@@ -76,3 +76,5 @@ Oh, and we don't care much about Internet Explorer, so no need to build for this
 
 We do not accept tests created using templates. We want to see how you would go about building a product from scratch!
 Happy coding!
+
+Please submit your finished test to [bit.ly/4cWYsiX](https://bit.ly/4cWYsiX)
